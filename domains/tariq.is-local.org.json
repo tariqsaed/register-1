@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+
+  "description": "Tariq Saed",
+
+  "domain": "is-local.org",
+  "subdomain": "tariq",
+
+  "owner": {
+    "repo": "https://github.com/tariqsaed/register-1",
+    "email": "tariqmohdsaed@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "tariqsaed.github.io"
+  },
+
+  "proxy": false
+}
